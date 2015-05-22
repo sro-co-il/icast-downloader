@@ -1,0 +1,2 @@
+This script I written for download all currently files from icast. icast.co.il is file that contain a lot of podcasts. The script get RSS feed of one of the podcast, and download all files that exists.
+With little changes, you can download with it files from every site by using the RSS feed.
